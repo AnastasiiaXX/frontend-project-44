@@ -1,12 +1,24 @@
 {
-  "name": "@hexlet/code",
+  "name": "frontend-project-44",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![Actions Status](https://github.com/AnastasiiaXX/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/AnastasiiaXX/frontend-project-44/actions)",
   "main": "index.js",
+  "bin": {
+    "frontend-project-44": "bin/brain-games.js",
+    "brain-games": "bin/brain-games.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnastasiiaXX/frontend-project-44.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnastasiiaXX/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/AnastasiiaXX/frontend-project-44#readme"
 }
