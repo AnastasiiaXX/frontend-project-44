@@ -14,4 +14,3 @@ const startTheRound = () => {
 export default () => {
   startGameCycle(gameRules, startTheRound);
 };
-// console.log(startGameEngine(rounds, gameRules))

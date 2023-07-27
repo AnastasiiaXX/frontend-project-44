@@ -10,7 +10,6 @@ const startGameCycle = (gameRules, startTheRound) => {
     const [question, answer] = startTheRound();
     console.log(`Question: ${question}`);
     const userAnswer = readlineSync.question('You answer: ');
-    console.log(userAnswer);
     if (userAnswer === answer) {
       console.log('Correct!');
     } else {
