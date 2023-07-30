@@ -7,4 +7,4 @@
 
 The first game is a game to determine parity. To run it use 'brain-even' in a console. Below is the game's demonstration.
 
-[![asciicast](https://asciinema.org/a/0wI4mrKG5vwTTTyQ1YDW64t1o.svg)](https://asciinema.org/a/0wI4mrKG5vwTTTyQ1YDW64t1o)
+[![asciicast](https://asciinema.org/a/9LulQsVvFC28MPh8SXuBSVAhn.svg)](https://asciinema.org/a/9LulQsVvFC28MPh8SXuBSVAhn)
