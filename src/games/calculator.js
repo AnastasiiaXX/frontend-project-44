@@ -21,7 +21,6 @@ const calculate = (operator, num1, num2) => {
       return Error('Operator is invalid');
   }
 };
-console.log(calculate('+', 45, 11));
 
 const startTheRound = () => {
   const num1 = getRandomNumber(0, 100);
