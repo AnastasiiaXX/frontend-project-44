@@ -15,3 +15,8 @@ To run it use 'brain-calc' in a console. Below is the game's demonstration.
 
 The third game is the greatest common denominator
 [![asciicast](https://asciinema.org/a/RaF8ln1q4p2Jx135DGOBW2eFM.svg)](https://asciinema.org/a/RaF8ln1q4p2Jx135DGOBW2eFM)
+
+The fourth game is the arithmetic progression
+[![asciicast](https://asciinema.org/a/cJ8xNisOxeP0dRpnkP7eEcaDw.svg)](https://asciinema.org/a/cJ8xNisOxeP0dRpnkP7eEcaDw)
+
+The fifth game is to determine whether the given number is prime or not.
