@@ -7,7 +7,8 @@ const createProgression = () => {
   const numberToBegin = getRandomNumber(1, 100);
   const difference = getRandomNumber(1, 10);
   const progression = [];
-  for (let i = 0; i <= 10; i += 1) {
+  const progressionLength = 10;
+  for (let i = 0; i <= progressionLength; i += 1) {
     progression.push(numberToBegin + i * difference);
   }
   return progression;

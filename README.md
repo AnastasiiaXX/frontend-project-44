@@ -54,8 +54,7 @@ Below is the game's demonstration.
 Your task is to find it by being given two numbers. 
 To run it type this command in your console:
 
-
-[def]: https://codeclimate.com/github/AnastasiiaXX/frontend-project-44/maintainability```sh
+```sh
 brain-gcd
 ```
 Below is the game's demonstration.

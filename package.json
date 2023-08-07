@@ -2,7 +2,7 @@
   "name": "@hexlet/code",
   "type": "module",
   "version": "1.0.0",
-  "description": "[![Actions Status](https://github.com/AnastasiiaXX/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/AnastasiiaXX/frontend-project-44/actions)",
+  "description": "a collection of console games",
   "bin": {
     "frontend-project-44": "bin/brain-games.js",
     "brain-games": "bin/brain-games.js",
@@ -27,11 +27,6 @@
   "homepage": "https://github.com/AnastasiiaXX/frontend-project-44#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  },
-  "dev-dependencies": {
-    "eslint": "^8.28.0",
-    "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.26.0"
   },
   "devDependencies": {
     "eslint": "^8.45.0",
