@@ -45,7 +45,7 @@ To run it type this command in your console:
 ```sh
 brain-calc
 ```
-    Below is the game's demonstration.
+Below is the game's demonstration.
 
 [![asciicast](https://asciinema.org/a/pGOF7TZiriRZIcGQCM8BdyzLR.svg)](https://asciinema.org/a/pGOF7TZiriRZIcGQCM8BdyzLR)
 
@@ -56,7 +56,7 @@ To run it type this command in your console:
 ```sh
 brain-gcd
 ```
-    Below is the game's demonstration.
+Below is the game's demonstration.
 
 [![asciicast](https://asciinema.org/a/RaF8ln1q4p2Jx135DGOBW2eFM.svg)](https://asciinema.org/a/RaF8ln1q4p2Jx135DGOBW2eFM)
 
